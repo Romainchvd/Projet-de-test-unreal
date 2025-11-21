@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/AttenuationDisco.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/PhareHolder_Blueprint.uasset",
-				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/parkour.umap",
-				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/Bamo_Cyberpunk.uasset",
-				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/I_really_want_to_stay_at_you_house_-_Cyberpunk.uasset",
-				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/Serpant_-_Cyberpunk.uasset",
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/Trampoline_Blueprint.uasset",
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/materials/M_MonSuperMaterial.uasset",
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/M_MonSuperMaterial.uasset",
@@ -24,7 +18,25 @@
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset",
 				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset",
-				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/StarterContent/Materials/M_Metal_Copper.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/PhareHolderBlueprint.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/LV_level1.umap",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/PhareHolderBlueprint.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Levels/LV_level1.umap",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Levels/LV_level2.umap",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Audio/AttenuationDisco.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/BP_L1_L2.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/BP_ChangeLevel.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Levels/LV_level3.umap",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/FinalText.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Blueprint/FinalText.uasset",
+				"C:/Users/rdumont/Documents/GitHub/TutoTestUnreal/testUnreal 5.6/Content/Levels/LV_level4.umap",
+				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/AttenuationDisco.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/PhareHolder_Blueprint.uasset",
+				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/parkour.umap",
+				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/Bamo_Cyberpunk.uasset",
+				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/I_really_want_to_stay_at_you_house_-_Cyberpunk.uasset",
+				"C:/Users/romin/Documents/Unreal Projects/Projet-de-test-unreal/testUnreal 5.6/Content/Audio/Serpant_-_Cyberpunk.uasset"
 			]
 		}
 	]

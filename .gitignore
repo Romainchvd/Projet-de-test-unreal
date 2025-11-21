@@ -94,3 +94,6 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+testUnreal 5.6/Content/LevelPrototyping/Meshes/M_SM_Cube_M_Brick_Cut_Stone_EC79C4B74BF083D1DCC895A626234D2E.uasset
+testUnreal 5.6/Saved/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Brick_Cut_Stone_EC79C4B74BF083D1DCC895A626234D2E_Auto7.uasset
+testUnreal 5.6/Saved/Autosaves/Game/LevelPrototyping/Meshes/M_SM_Cube_M_Brick_Cut_Stone_EC79C4B74BF083D1DCC895A626234D2E_Auto6.uasset
